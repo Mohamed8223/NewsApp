@@ -17,7 +17,7 @@ class home_view extends StatelessWidget {
         centerTitle: true,
         title: const Row(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [
+          children:  [
             Text(
               'News',
               style: TextStyle(color: Colors.black),
